@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary & Local Scripts
+*.txt
+*.json
+proxy_interceptor.py
+received_script.lua
+
+# Keep README and main script
+!README.md
+!script.lua
